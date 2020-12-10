@@ -1,7 +1,7 @@
 # Advertisement-Recommendation
-Video Content-Based Advertisement Recommendation Using Text Classification
+Video Content-Based Advertisement Recommendation Using Text Classification & Video Classification
 
-Content-based advertising is a method by which we advertise on a video media based
+Content-based advertising is a method by which we advertise on a video media based 
 on a relevant topic assigned to the video. In digital advertising, the advertisements shown to a
 user is based on the user’s behaviour on the internet. Streaming platforms are then used to
 target audience based on parameters like user’s geo-location, interests, watch history, age, etc.
