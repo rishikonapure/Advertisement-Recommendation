@@ -1,5 +1,6 @@
 # Advertisement-Recommendation
-Video Content-Based Advertisement Recommendation Using Text Classification & Video Classification
+Video Content-Based Advertisement Recommendation Using Text Classification & Video Classification 
+[Click here for implementation guide](https://medium.com/analytics-vidhya/video-content-based-advertisement-recommendation-using-nlp-4512430c169e)
 
 Content-based advertising is a method by which we advertise on a video media based 
 on a relevant topic assigned to the video. In digital advertising, the advertisements shown to a
