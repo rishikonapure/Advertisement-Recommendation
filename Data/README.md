@@ -19,4 +19,4 @@ the developed model and the inception v3 model.
 [Download the data from here.](https://www.kaggle.com/rishikeshkonapure/sports-image-dataset)
 
 ## Advertisement data
-The advertisement video data consists of information regarding video URL, video id, title, description etc.
+ In order to achieve this various advertisements in the video format are collected and metadata of these are extracted and stored in a database. The advertisement video data consists of information regarding video URL, video id, title, description etc.
