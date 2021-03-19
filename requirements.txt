@@ -98,7 +98,7 @@ pathtools==0.1.2
 patsy==0.5.1
 pdfminer.six==20181108
 pickleshare==0.7.5
-Pillow==7.1.2
+Pillow==8.1.1
 pip-update==0.4.1
 pliers==0.3.0
 portalocker==1.7.0
