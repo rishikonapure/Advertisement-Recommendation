@@ -111,7 +111,7 @@ pycparser==2.20
 pycryptodome==3.9.7
 pydeck==0.4.0b2
 pydub==0.23.1
-Pygments==2.5.2
+Pygments==2.7.4
 pyparsing==2.4.5
 pyreadline==2.1
 pyrsistent==0.15.6
