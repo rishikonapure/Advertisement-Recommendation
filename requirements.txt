@@ -69,7 +69,7 @@ Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.2
 keras-squeezenet==0.4
 kiwisolver==1.1.0
-lxml==4.5.1
+lxml==4.6.3
 Markdown==3.1.1
 MarkupSafe==1.1.1
 marshmallow==2.21.0
