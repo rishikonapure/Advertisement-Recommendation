@@ -150,7 +150,7 @@ streamlit==0.62.0
 tabulate==0.8.7
 temp==2020.4.16
 tensorboard==1.15.0
-tensorflow==1.15.0
+tensorflow==2.5.0
 tensorflow-estimator==1.15.1
 termcolor==1.1.0
 terminado==0.8.3
