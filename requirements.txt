@@ -123,7 +123,7 @@ pytube==9.6.0
 pytube3==9.6.4
 pytz==2019.3
 PyWavelets==1.1.1
-pywin32==227
+pywin32==301
 pywinpty==0.5.7
 PyYAML==5.2
 pyzmq==18.1.0
