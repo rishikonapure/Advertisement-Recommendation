@@ -19,13 +19,3 @@ downloading images from the internet. We also create a video advertisement's dat
 scrapping. This proposed system makes sure that the user is shown the advertisement in
 reference to the video. This increases probability of the user visiting the client's website.
 
-
-## Objective
-Paid digital advertisement has shown great growth continually on various platforms. Most marketers
-realize the importance of fulfilling a customer’s requirement, thus they use these platforms to reach the
-core audience. The methodologies adapted in the algorithms are based on video content. This
-automatically decreases the load on a server. A reflection is seen on the sorted data which reduces
-unnecessary searches, thus saving access time. Thrust technologies like machine learning and pattern
-matching are adopted to generate correct customer through the metadata of advertisements in the
-videos. This ensures that an advertisement will be shown only to relevant users who will benefit from
-the system.
